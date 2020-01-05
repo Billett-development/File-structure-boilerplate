@@ -1,7 +1,7 @@
 {
-  "name": "LUFC apps",
+  "name": "lufcapps",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lufc web application",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
