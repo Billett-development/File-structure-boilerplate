@@ -23,6 +23,8 @@ TUTORIAL:
 5. Live server will start and you can start compiling SASS.
 
 RUN THE BUILD PROCESS:
+
+
 1.To run the build process make sure your in the folder directory and both live server and sass watch are not running.
 2.run "npm run build:css" in the command prompt
 
