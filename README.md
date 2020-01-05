@@ -19,5 +19,6 @@ TUTORIAL:
 1. Open CMD (command prompt)
 2. Change directory into main folder (using "cd" in the terminal) 
 3. Once opened please run "npm install" and install of fo the node modules that are needed for this project.
-4. Live server will start and you can start compiling SASS.
+4. once node modules have been installed run "npm run start"
+5. Live server will start and you can start compiling SASS.
 
